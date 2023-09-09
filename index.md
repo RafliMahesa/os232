@@ -1,7 +1,7 @@
 # LINKS
 
-* [TXT/mylog.txt](LOG)
-* [https://github.com/RafliMahesa/](GitHub)
-* [https://github.com/RafliMahesa/os232/blob/master/LINKS/links.md](LINKS)
+* [mylog](https://github.com/RafliMahesa/os232/blob/master/TXT/mylog.txt)
+* [GitHub](https://github.com/RafliMahesa/)
+* [LINKS](https://github.com/RafliMahesa/os232/blob/master/LINKS/links.md)
 <br>
 <hr>
