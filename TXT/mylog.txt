@@ -17,3 +17,4 @@ ZCZC W01 100 L02 CLASSROOM related
 ZCZC W01 120 L05 Quiz related including studying
 ZCZC W01 20 L11 Assignment #01
 ZCZC W01 10 LO3 GitHub related
+ZCZC W01 60 L09 Reading assignment
