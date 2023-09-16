@@ -1,6 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logcodes.txt
+ZCZC W02 15 L01 SCELE related
+ZCZC W02 100 L02 CLASSROOM related
+ZCZC W02 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 75 L73 Gaming
+ZCZC W02 100 L02 CLASSROOM related
+ZCZC W02 15 LO3 GitHub related
+ZCZC W02 60 L09 Reading assignment
+ZCZC W02 150 L05 Quiz related including studying
+ZCZC W02 20 L12 Assignment #02
+ZCZC W02 15 L41 TXT/mylog.txt related.
+ZCZC W02 10 L27 SSH and key-gen
+ZCZC W02 15 L43 TXT/myrank.txt related
 ZCZC W01 10 LO1 SCELE related
 ZCZC W01 100 L02 CLASSROOM related
 ZCZC W01 90 L31 VirtualBox: Setup
