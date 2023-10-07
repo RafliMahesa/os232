@@ -1,6 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W05 25 L01 SCELE related
+ZCZC W05 100 L02 CLASSROOM related
+ZCZC W05 100 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 60 L73 Gaming
+ZCZC W05 100 L02 CLASSROOM related
+ZCZC W05 30 LO3 GitHub related
+ZCZC W05 70 L09 Reading assignment
+ZCZC W05 20 L15 Assignment #05
+ZCZC W05 20 L41 TXT/mylog.txt related
+ZCZC W05 25 L43 TXT/myrank.txt related
+ZCZC W05 25 L25 C-language including Make.
+ZCZC W05 15 L62 Backup Virtual Debian Guest
+ZCZC W05 135 L05 Quiz related including studying
 ZCZC W04 20 L01 SCELE related
 ZCZC W04 100 L02 CLASSROOM related
 ZCZC W04 120 L32 YouTube: watching OS related topics, etc.

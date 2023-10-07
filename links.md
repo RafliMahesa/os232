@@ -14,5 +14,7 @@ Learn about the two main types of encryption: asymmetric and symmetric. What is 
 Short concept video about File System. Easy to understand and very informative.
 * [Pointers (Important Questions)](https://www.youtube.com/watch?v=cEphEIMaqms&ab_channel=NesoAcademy) ---
 In this video, there is a set of important questions based on the basics of pointers. Explaining the difference between pointers and indifference operators clearly.
+* [What is Virtual Memory? What Does it Do?](https://www.youtube.com/watch?v=qeOBEOBJREs&ab_channel=EyeonTech) ---
+In this video, you will gain a deeper understanding of Virtual Memory, its functions, and why it plays a vital role in computer systems. This knowledge will help you optimize system performance effectively.
 <br>
 <hr>
