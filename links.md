@@ -18,5 +18,7 @@ In this video, there is a set of important questions based on the basics of poin
 In this video, you will gain a deeper understanding of Virtual Memory, its functions, and why it plays a vital role in computer systems. This knowledge will help you optimize system performance effectively.
 * [FANG Interview Question | Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI) ---
 This video effectively highlights the distinctions between threads and processes, making it easier to comprehend. The utilization of diagrams and animations provides additional clarity and enhances the understanding of the differences between processes and threads.
+* [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY) ---
+This video discuss Deadlock concept in operating systems. The example provided is quite insightful.
 <br>
 <hr>
