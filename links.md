@@ -20,5 +20,7 @@ In this video, you will gain a deeper understanding of Virtual Memory, its funct
 This video effectively highlights the distinctions between threads and processes, making it easier to comprehend. The utilization of diagrams and animations provides additional clarity and enhances the understanding of the differences between processes and threads.
 * [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY) ---
 This video discuss Deadlock concept in operating systems. The example provided is quite insightful.
+* [Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) ---
+This video is very simple but direct to the point. I loved the explanation. 
 <br>
 <hr>
